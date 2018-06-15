@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Unity-ScriptableObjects-Text101/Assets/Plugins/Editor.meta
+Unity-ScriptableObjects-Text101/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+Unity-ScriptableObjects-Text101/Assets/Plugins/Editor/JetBrains.meta
+Unity-ScriptableObjects-Text101/Assets/Plugins.meta
+Unity-ScriptableObjects-Text101/.idea/
