@@ -1,0 +1,8 @@
+You've just woken up and found that you are lied down on the ground. Nothing but a lot of trees surround you. It seems you're left in this forest.
+Suddenly, you spot a strange thing near the tree beside you. It's a box, a tiny one. But why is it doing here?
+
+You could try open it to see the inside, or just leave it that way and move toward to find a way out of this forest.
+
+What should you do?
+1. Open the box to see what is inside.
+2. Ignore it and find a way to get out of the forest.
