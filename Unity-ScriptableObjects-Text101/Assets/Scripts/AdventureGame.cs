@@ -5,7 +5,7 @@ public class AdventureGame : MonoBehaviour
 {
 	[SerializeField] private Text _textComponent;
 	[SerializeField] private State _startingState;
-
+	
 	private State _state;
 	
 	// Use this for initialization
