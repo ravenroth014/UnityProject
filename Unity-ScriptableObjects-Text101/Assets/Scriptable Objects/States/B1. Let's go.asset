@@ -15,10 +15,8 @@ MonoBehaviour:
     you to close your eyes. A few minutes later, when you realize that no light anymore.
     You found out that now you're not far from a city that looks like it come out
     from ancient fantasy novel.\r\n\r\n\"This is as far as I'm able to bring you here,
-    I suggest you to go to adventurer's guild before starting your journey. Farewell!!!\"\r\n\r\nWhat
-    are you going to do?\r\n1. Do like the dwarf suggested.\r\n2. Just nod and go
-    elsewhere.\n\n(The story is end for now, so any choice will go back into intro,
-    thanks for testing!!!)"
+    I suggest you to go to adventurer's guild before starting your journey. Farewell!!!\"\r\n\n(The
+    story is end for now, so any choice will go back into intro, thanks for testing!!!)"
   _nextStates:
   - {fileID: 11400000, guid: 92abd1c6eb8cc9d43aa76be780512a6b, type: 2}
   - {fileID: 11400000, guid: 92abd1c6eb8cc9d43aa76be780512a6b, type: 2}

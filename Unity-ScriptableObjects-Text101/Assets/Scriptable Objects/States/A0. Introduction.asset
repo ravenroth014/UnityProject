@@ -13,6 +13,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _stroyText: "Welcome.\n\nThis this a scriptable objects test. \n\nYou can press
     1, 2 or 3 to select your choice.\n\nIf you want to reset, press q to go back to
-    this page."
+    this page.\n\nPress 1 to start!!!"
   _nextStates:
   - {fileID: 11400000, guid: 8d1233115cfa78848a84b88acdbc2f94, type: 2}
