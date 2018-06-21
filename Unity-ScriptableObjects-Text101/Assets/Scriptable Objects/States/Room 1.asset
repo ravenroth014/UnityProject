@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Name: Room 1
   m_EditorClassIdentifier: 
   _stroyText: I'm in room 1.
-  _nextStates: []
+  _nextStates:
+  - {fileID: 11400000, guid: 1ecb26a277623bd47b8041cc86b6bd40, type: 2}
+  - {fileID: 11400000, guid: 8d1233115cfa78848a84b88acdbc2f94, type: 2}

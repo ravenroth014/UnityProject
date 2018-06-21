@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Name: Room 2
   m_EditorClassIdentifier: 
   _stroyText: This looks like room two.
-  _nextStates: []
+  _nextStates:
+  - {fileID: 11400000, guid: ea53fd0e06316e1448a4f832dade9df6, type: 2}
+  - {fileID: 11400000, guid: 8d1233115cfa78848a84b88acdbc2f94, type: 2}
