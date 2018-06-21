@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 433ca6a8d73c30543bdbfb3fbe796ff7, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  stroyText: "You've just woken up and found that you are lied down on the ground.
+    Nothing but a lot of trees surround you. It seems you're left in this forest.\r\nSuddenly,
+    you spot a strange thing near the tree beside you. It's a box, a tiny one. But
+    why is it doing here?\r\n\r\nYou could try open it to see the inside, or just
+    leave it that way and move toward to find a way out of this forest.\r\n\r\nWhat
+    should you do?\r\n1. Open the box to see what is inside.\r\n2. Ignore it and find
+    a way to get out of the forest."
