@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 433ca6a8d73c30543bdbfb3fbe796ff7, type: 3}
+  m_Name: A2. Ignore the box and find a way out
+  m_EditorClassIdentifier: 
+  _stroyText: "You don't care about that tiny box. Why should you? So you left and
+    move to a different way to go back to your home.\r\n\r\nThere are two ways from
+    where you are, South and North.\r\n\r\nWhich way you choose?\r\n1. Go North.\r\n2.
+    Go South."
+  _nextStates:
+  - {fileID: 11400000, guid: fc9a9590394b98e4995749a31df39234, type: 2}
+  - {fileID: 11400000, guid: 7b800d7f830ae614c9b0d22216b0b87b, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 433ca6a8d73c30543bdbfb3fbe796ff7, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  _stroyText: "Welcome.\n\nThis this a scriptable objects test. \n\nYou can press
+    1, 2 or 3 to select your choice.\n\nIf you want to reset, press q to go back to
+    this page."
+  _nextStates:
+  - {fileID: 11400000, guid: 8d1233115cfa78848a84b88acdbc2f94, type: 2}

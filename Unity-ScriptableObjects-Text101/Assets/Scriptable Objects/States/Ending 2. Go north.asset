@@ -9,9 +9,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 433ca6a8d73c30543bdbfb3fbe796ff7, type: 3}
-  m_Name: Room 2
+  m_Name: Ending 2. Go north
   m_EditorClassIdentifier: 
-  _stroyText: This looks like room two.
+  _stroyText: "You decided to go north and hope to get a way out. Luckily, you reached
+    the outside of the forest and found a road. You go back to your home like nothing
+    is happened and enjoy your boring life as always you do.\r\n\r\nThe End.\n\n1.
+    Try again\n2. Go back to intro"
   _nextStates:
-  - {fileID: 11400000, guid: ea53fd0e06316e1448a4f832dade9df6, type: 2}
   - {fileID: 11400000, guid: 8d1233115cfa78848a84b88acdbc2f94, type: 2}
+  - {fileID: 11400000, guid: 92abd1c6eb8cc9d43aa76be780512a6b, type: 2}
