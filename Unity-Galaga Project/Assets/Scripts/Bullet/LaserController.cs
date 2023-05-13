@@ -7,7 +7,8 @@ public class LaserController : MonoBehaviour
 {
     #region Static Value
 
-    private static readonly float _bulletLifeCycleTime = 2.5f;
+    // Test Fork Git Update
+    //private static readonly float _bulletLifeCycleTime = 2.5f;
     private static readonly string _PlayerTagName = "Player";
 
     #endregion
